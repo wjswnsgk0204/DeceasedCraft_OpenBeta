@@ -844,7 +844,7 @@
   "quest.guide.world.compass.subtitle": "Guia para Lugar Nenhum",
   "quest.guide.world.compass.description_1": "Uma \u00a7bBússola da Natureza\u00a7r é inestimável para encontrar biomas como o \u00a7bvulcão\u00a7r e \u00a7bterras devastadas\u00a7r, bem como para localizar \u00a7bdistritos\u00a7r.",
   "quest.guide.world.compass.description_2": "\u00a76Biomas úteis para procurar:\u00a7r\n\n\u00a7bPlanícies Nevadas\u00a7r = \u00a7eDistrito Comercial\u00a7r\n\u00a7bFloresta de Coníferas\u00a7r = \u00a7eDistrito Residencial de Arranha-céu\u00a7r\n\u00a7bPlanície\u00a7r = \u00a7eDistrito de Escritórios de Arranha-céu\u00a7r\n\u00a7bFloresta Tropical\u00a7r = \u00a7eDistrito de Hotel de Arranha-céu\u00a7r",
-  "quest.guide.world.compass.description_3": "\u00a7NOTA:\u00a7r A bússola sempre o guiará para o bioma mais próximo desse tipo em um raio de \u00a765000\u00a7r blocos, então viaje na direção oposta se o bioma que encontrar não for adequado para você!",
+  "quest.guide.world.compass.description_3": "\u00a76NOTA:\u00a7r A bússola sempre o guiará para o bioma mais próximo desse tipo em um raio de\u00a76 5000\u00a7r blocos, então viaje na direção oposta se o bioma que encontrar não for adequado para você!",
   "quest.guide.tutorial.districts.title": "Subúrbio Residencial - \u00a7eDistrito Tier 1\u00a7r",
   "quest.guide.tutorial.districts.subtitle": "Como assim as pessoas vivem neles?",
   "quest.guide.tutorial.districts.description_1": "Este modpack é dividido em \u00a766\u00a7r distritos, cada um com \u00a7cdificuldade\u00a7r e \u00a7ctemperatura\u00a7r crescentes.",
